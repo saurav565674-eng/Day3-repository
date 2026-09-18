@@ -1,0 +1,36 @@
+.btn{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    border-radius: 2px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: background-color 0.15s,color 0.15s;
+}
+.btn:hover{
+    background-color: rgb(116, 80, 150);
+}
+.btn2{
+    background-color: white;
+    color: blueviolet;
+    border-width: 2px;
+    border-style: solid;
+    border-color: blueviolet;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0.15;
+}
+.btn2:hover{
+    background-color: rgb(165, 112, 215);
+    color: white;
+}
