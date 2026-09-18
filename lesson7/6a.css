@@ -1,0 +1,37 @@
+p{
+    font-family: arial;
+    color: rgb(100,100,100);
+
+}
+.label{
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+.text1{
+    font-size: 20px;
+    width: 400px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: chartreuse;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.disclamer{
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+.btn{
+    background-color: red;
+    color: white;
+    border: none;
+    font-size: 20px;
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+}
