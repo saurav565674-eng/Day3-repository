@@ -1,0 +1,17 @@
+img{
+    display: block;
+    width: 200px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+input{
+    border: none;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    width: 500px;
+    border-radius: 30px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.2);
+}
