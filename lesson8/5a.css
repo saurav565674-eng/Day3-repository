@@ -1,0 +1,44 @@
+p{
+    font-family: arial;
+}
+.title{
+    font-size: 40px;
+    margin-bottom: 25px;
+
+}
+input{
+    display: block;
+    background-color: rgb(243, 238, 236);
+    border: none;
+    margin-bottom: 10px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 20px;
+    width: 400px;
+}
+.destination{
+    margin-bottom: 35px;
+}
+.btn{
+        background-color: black;
+    color: white;
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    margin-right: 20px;
+
+}
+.btn2{
+    background-color: rgb(81, 232, 70);
+    border: none;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+}
