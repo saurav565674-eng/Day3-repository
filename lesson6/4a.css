@@ -1,0 +1,16 @@
+p{
+    font-family: arial;
+    text-align: center;
+}
+.btn{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btn2{
+    margin-bottom: 20px;
+}
+.btn3{
+    color: aqua;
+}
